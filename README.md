@@ -36,7 +36,7 @@ print rational.multiply(3, 7)
 Running Tests
 ---------------------
 
-<code>
+<pre>
 $ python tests.py -v
 
 Test Outcomes
@@ -49,4 +49,4 @@ testSubtract (__main__.TestArithmetic) ... ok
 Ran 4 tests in 0.000s
 
 OK
-</code>
+</pre>
