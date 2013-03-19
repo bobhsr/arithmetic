@@ -14,6 +14,7 @@ A python class for basic arithmetic operations. The class can be used for:
 Quick Start
 ---------------------
 
+<pre>
 # import rational from arithmetic module
 
 from arithmetic import Rational
@@ -30,7 +31,7 @@ print rational.divide(100, 10)
 
 # multiply 3 by 7
 print rational.multiply(3, 7)
-
+</pre>
 
  
 Running Tests
